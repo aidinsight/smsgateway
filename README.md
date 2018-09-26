@@ -1,6 +1,6 @@
 # smsgateway
-The PHP scripts (to get &amp; send SMS ) and workflow__
-Server used Twilio__ 
+The PHP scripts (to get &amp; send SMS ) and workflow<br />
+Server used Twilio <br /> 
 link https://www.twilio.com/ 
-__
-licensed under apache 2.0__
+<br />
+licensed under apache 2.0<br />
